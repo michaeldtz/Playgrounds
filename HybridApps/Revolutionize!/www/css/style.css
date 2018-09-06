@@ -1,0 +1,80 @@
+/* Empty. Add your own CSS if you like */
+html, body, *{
+    font-family: "Helvetica Neue";
+    font-weight: 300    ;
+}
+
+.contentarea{
+    padding: 20px;
+}
+
+.header{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.listitem-chapter{
+    background-color: #f9f9f9;
+    font-weight: bold;
+    height: 40px;
+    padding-top:10px;
+}
+
+.listitem-headline{
+    /*background-color: #87CEFA;*/
+
+    border-color: #777777;
+    background-color: #999999;
+    /*background-image: linear-gradient(0deg, #145fd7, #145fd7 50%, transparent 50%);*/
+    color: #fff;
+
+    font-weight: bold;
+    height: 40px;
+    padding-top:10px;
+
+}
+
+.localimage{
+    max-width: 100%;
+}
+
+.whiteBackground{
+    background-color: white;
+}
+
+.contact-btn {
+    height: 20px;
+    margin-top: 10px;
+}
+
+.pagecontent ol li {
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+
+.bar.bar-revolutionize {
+    border-color: #111;
+    background-color: #666666;
+    background-image: linear-gradient(0deg, #111, #111 50%, transparent 50%);
+    color: #fff; }
+.bar.bar-revolutionize .title {
+    color: #fff; }
+.bar.bar-revolutionize.bar-footer {
+    background-image: linear-gradient(180deg, #111, #111 50%, transparent 50%); }
+
+.bar.bar-revolutionize .button{
+    color: #EEEEEE;
+}
+
+.pageheader{
+    color: #003B66;
+}
+
+.pagecontent h3 {
+    color: #005998;
+}
+
+.activeitem{
+    background-color: #F0AB00;
+}

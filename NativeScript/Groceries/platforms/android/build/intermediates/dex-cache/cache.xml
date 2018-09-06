@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/d6fb675ca78eedf4646e65979875127d02c31e0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/pre-dexed/debug/classes_33487f710394e63bdf577d60b2431321b30387bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/8a57cddcb10c257a9a4a4dd32e5c7d3cff83ce98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/pre-dexed/debug/classes_f175cad17fe35b1fe3450f7468945154eb8e5329.jar" />
+    </item>
+
+</items>

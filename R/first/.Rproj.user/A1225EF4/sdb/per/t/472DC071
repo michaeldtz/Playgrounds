@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(httr)\nlibrary(jsonlite)\n\n# Construct star_wars_matrix\nbox_office <- c(460.998, 314.4, 290.475, 247.900, 309.306, 165.8)\nstar_wars_matrix <- matrix(box_office, nrow = 3, byrow = TRUE,\n                           dimnames = list(c(\"A New Hope\", \"The Empire Strikes Back\", \"Return of the Jedi\"), \n                                           c(\"US\", \"non-US\")))\n\n# The worldwide box office figures\nworldwide_vector <- rowSums(star_wars_matrix)\n\n# Bind the new variable worldwide_vector as a column to star_wars_matrix\nall_wars_matrix <- cbind(star_wars_matrix, worldwide_vector)\n\nresult <- GET(\"https://drive.google.com/uc?export=download&id=1yt5DYm0Ho9SRYCL1OdmxT2F_19Jphld0\", query = list(a = 1, b = 2), add_headers(Authorization = \"Bearer 1234\"))\ntext <- textConnection(content(result,\"text\"))\ndata <- read.csv(text)\ndata\n\nresult\n\nresult2 <- GET(\"https://postman-echo.com/get\", query = list(foo1 = \"Jsad\"), add_headers(Authorization = \"Bearer 1234\"))\ncontent(result2,\"text\")",
+    "created" : 1507234929860.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1225718984",
+    "id" : "472DC071",
+    "lastKnownWriteTime" : 1514928377,
+    "last_content_update" : 1514928377438,
+    "path" : "~/Projects/R-Projects/first/firstscript.R",
+    "project_path" : "firstscript.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

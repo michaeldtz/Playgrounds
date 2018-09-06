@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/michael/.android/build-cache/3b5380cb6fb5b4251a24c69ecbfba2748648f209/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/michael/.android/build-cache/3b5380cb6fb5b4251a24c69ecbfba2748648f209/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/michael/.android/build-cache/3b5380cb6fb5b4251a24c69ecbfba2748648f209/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/michael/.android/build-cache/3b5380cb6fb5b4251a24c69ecbfba2748648f209/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/NativeScriptProjects/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<div class="contentarea" ng-controller="contentController">
+
+    <div class="header">
+        <table>
+            <tr>
+                <td><i ng-show="activeContent.icon != ''" class="icon ion-{{activeContent.icon}} pageheader" style=""></i></td>
+                <td><div  style="padding-left: 10px; line-height: 33px;" class="pageheader">{{ activeContent.title }}</div></td>
+            </tr>
+        </table>
+
+
+    </div>
+
+    <div ng-bind-html="activeContent.content" class="pagecontent"></div>
+
+</div>

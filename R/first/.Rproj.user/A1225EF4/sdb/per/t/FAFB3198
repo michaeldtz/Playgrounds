@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(httr)\nlibrary(jsonlite)\n\nURL = \"https://drive.google.com/uc?export=download&id=1wJakfRxFFtjBXUII0Z0t9v_AX7xON05N\"\nresult <- GET(URL, query = list(a = 1, b = 2), add_headers(Authorization = \"Bearer 1234\"))\ntext <- content(result,\"text\")\ndata <- fromJSON(txt=text)\ndata\n\n",
+    "created" : 1514928380756.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1221150162",
+    "id" : "FAFB3198",
+    "lastKnownWriteTime" : 1515787197,
+    "last_content_update" : 1515787197161,
+    "path" : "~/Projects/R-Projects/first/loadJSON.R",
+    "project_path" : "loadJSON.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

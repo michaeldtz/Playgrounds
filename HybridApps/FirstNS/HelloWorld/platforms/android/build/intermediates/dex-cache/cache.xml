@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/f3c56e5894290aab31d64a66eee698214de71b71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_a802cd735bd1b650713866678335b990420424e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/e95980bab93f34df2ad4da152478ce65572b9f1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_0f757ce9db982bbead1c729b026847a9f6236496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/eee59bd79bd226df0e851e626c217914f31ed221/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_58e94c465205bbd81a1e4825e2bbebf27d92a5ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/bd5db18f03d246c508f038f5cfd46c7497bcbd15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_82a1964dc5007693d8a936b202afd1b2b3539729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/823d23292a7236e2b14a9008fb03e8e800f8f8f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_67be1ca8235450fcf7179742597daac32472ea8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/e9a44b8f1a4630f5d96f789f27f29e649a3799ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_682fabeae4edccf91e9f250b624a409dc731c94a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/93ba4592616a2157499fba68a8fcc2c0db3bcee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_1ce1629d287315bfae4cc03122fb285fc7a293c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/3b5380cb6fb5b4251a24c69ecbfba2748648f209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_3cb90e042fb4cb9b9e4ea799aa17230d517998ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/fe0a86fb548a4dd61d7ac9a601c2da47fd771f83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_62dd368fff7655b4a01d6c5a120ec43e35318120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/fe883eec70edeef9bc5950e5fb2b389868ead47f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_79b18e5061058caa6a158f88fa72b5e809d2eda8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_f57a3200f337ff9412f9a5e2bbc1b180d36cbe01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/6682178fd66f8a8faa69e408249a9bd8476d7b8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_a70d1fd326c52407d78253a3582f1c99b484cfaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/d2c44142136c8af38e39b0cfcd6d7b38525345e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_c7e46411930af49aff1ac6f529e446dad1959613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0a14855701c72645e5e4250ccd6e55410a83a4d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michael/.android/build-cache/0f95302accf567e1e7f16afd9d3c3bdbfdb4860a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/pre-dexed/debug/classes_1ea7bcabb5d98f1b23e9ef28c9b4cf4867abffed.jar" />
+    </item>
+
+</items>

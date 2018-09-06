@@ -1,0 +1,1 @@
+docker build -t gcr.io/mdimages/go-indoormap:v1 .

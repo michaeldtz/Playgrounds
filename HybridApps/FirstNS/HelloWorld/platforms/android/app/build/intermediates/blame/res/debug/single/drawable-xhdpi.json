@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/background.png",
+        "source": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/src/main/res/drawable-xhdpi/logo.png"
+    }
+]

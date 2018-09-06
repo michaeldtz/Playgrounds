@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/michael/Projects/HybridProjects/FirstNS/HelloWorld/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/michael/.android/build-cache/e00cd304c4ff5608b8bdf90efa7d7896cfa9def1/output/res/layout-v21/notification_action.xml"
+    }
+]
